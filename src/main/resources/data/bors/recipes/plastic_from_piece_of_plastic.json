@@ -1,0 +1,10 @@
+{
+	"type": "minecraft:smelting",
+	"cookingtime": 200,
+	"experience" : 0.5,
+	"ingredient": {
+		"item": "bors:piece_of_plastic"
+	},
+	"result": "bors:plastic"
+	
+}
